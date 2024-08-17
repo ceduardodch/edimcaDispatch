@@ -30,10 +30,6 @@ pip install requests pandas pyodbc
 python C:/path/to/dispatchTrack.py
 
 
-### Notas Finales
 
-- **Personalización**: Asegúrate de personalizar el README con detalles específicos de tu proyecto, como la estructura exacta de la base de datos o cualquier configuración adicional que pueda ser necesaria.
-- **Pruebas**: Antes de finalizar, realiza varias pruebas para asegurarte de que todos los comandos y pasos listados en el README funcionen como se espera.
-- **Documentación Adicional**: Considera añadir secciones adicionales si el script depende de configuraciones o procesos más complejos.
 
 
