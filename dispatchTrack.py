@@ -11,10 +11,10 @@ token = '21ecd590686f34549c9c4e7c5ea9ce13923fe26f8623d3ad053ade5ace96e24c'
 # Configura la conexión a la base de datos SQL Server
 conn_str = (
     r'DRIVER={ODBC Driver 17 for SQL Server};'
-    r'SERVER=172.16.150.44;'
-    r'DATABASE=STAGE;'
-    r'UID=USRDWH;'
-    r'PWD=USR05DWH17;'
+    r'SERVER=XXXXXXX;'
+    r'DATABASE=XXXXX;'
+    r'UID=XXXXXX;'
+    r'PWD=XXXXX;'
 )
 
 # Función para hacer la solicitud HTTP a la API
